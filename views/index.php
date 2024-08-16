@@ -12,7 +12,6 @@ require_once 'product.php/'
     <link rel="stylesheet" href="../My_shop/assets/styles.css">
 </head>
 <body>
-<!-- Шапка сайта -->
 <header>
     <div class="logo">
         <h1>Мой Магазин</h1>
